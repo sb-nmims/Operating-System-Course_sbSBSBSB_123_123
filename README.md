@@ -1,2 +1,3 @@
 # Operating-System-Course_sbSBSBSB_123_123
 Operating System theory notes, presentations, and laboratory experiments.
+Operating-System-Course/ ├── README.md ├── Unit-1-OS-Overview/ ├── Unit-2-Process-Scheduling/ ├── Unit-3-Process-Concurrency/ ├── Unit-4-Deadlock/ ├── Unit-5-Memory-Management/ ├── Unit-6-IO-and-Disk-Scheduling/ ├── Unit-7-File-Management/ └── Lab-Manual/ ├── Experiment-01-Unix-OS/ ├── Experiment-02-System-Calls/ ├── Experiment-03-FCFS/ ├── Experiment-04-SJF/ ├── Experiment-05-Priority/ ├── Experiment-06-Round-Robin/ ├── Experiment-07-Deadlock/ ├── Experiment-08-Memory-Allocation/ ├── Experiment-09-Page-Replacement/ └── Experiment-10-Disk-Scheduling/
